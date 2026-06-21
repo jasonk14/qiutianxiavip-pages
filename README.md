@@ -1,2 +1,14 @@
 # qiutianxiavip-pages
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
